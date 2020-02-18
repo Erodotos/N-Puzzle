@@ -13,5 +13,7 @@ How to use
    Commandline inputs:
    
    ./as3 breadth inputFile.txt outputfile.txt
+   
    ./as3 best inputFile.txt outputfile.txt
+   
    ./as3 a-star inputFile.txt outputfile.txt
